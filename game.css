@@ -1,0 +1,73 @@
+body, html {
+    font-family: 'Press Start 2P', cursive;
+    background-color: pink;
+}
+
+
+#title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+.gameBoard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+}
+
+
+.square {
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+
+.gameDeets {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+
+}
+
+.gameCounter {
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+}
+
+.restartGame {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#gameOver {
+    text-align: center;
+    font-size: 40px;
+}
+
+
+button {
+    background-color: pink;
+    border: 0.5rem outset pink;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+    outline-offset: 0.5rem
+}
