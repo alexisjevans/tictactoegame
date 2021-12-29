@@ -28,7 +28,7 @@ I started with some basic CSS & flexbox to structure my page and create my game 
 
 ###### Javascript
 
-This is where it got tricky! But I survived. So using those classes and ID's that I created in the HTML, I declared and initialized variables for player outcomes,the state of the game, winning combinations, etc. Next I added the functionality to be able to click the squares to make them 
+This is where it got tricky! But I survived. So using those classes and ID's that I created in the HTML, I declared and initialized variables for player outcomes, the state of the game, winning combinations, etc. Next I added the functionality to be able to click the squares to make them 
 change colors and signify turns using if statements and arrays. Added functionality to prevent double clicking on squares after a choice has been made. Added functionality for winning, which is comparing 
 winning combos to player outcomes using the OR operator. Also added functionality for the counter by accessing the result of the comparison and increasing the counter by 1. The array that holds the
 state of the game re-intializes at the end, and you can restart while each win is still recorded per player.
