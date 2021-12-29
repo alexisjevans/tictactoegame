@@ -12,7 +12,7 @@
 
 ## User Interface
 
-![alt text] (https://github.com/alexisjevans/tictactoegame/blob/main/interface.PNG)
+![alt text](https://github.com/alexisjevans/tictactoegame/blob/main/interface.PNG)
 
 ## Approach
 
