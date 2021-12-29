@@ -2,7 +2,7 @@
 
 ## Description
 
-###### This is a simple game of Tic Tac Toe that serves as my first opportunity to execute what I've learned in the SEI program so far. This game of Tic Tac Toe has a more minimalistic interface that uses different colors instead of the traditional X's and O's. [Click this link to play.](https://angry-hodgkin-1ace95.netlify.app)
+###### This is a simple game of Tic Tac Toe that serves as my first opportunity to execute what I've learned in the SEI program so far. This game of Tic Tac Toe has a more minimalist style interface that has a simple aesthetic and uses different colors instead of the traditional X's and O's. [Click this link to play.](https://angry-hodgkin-1ace95.netlify.app)
 
 ## Technologies Used
 - HTML
