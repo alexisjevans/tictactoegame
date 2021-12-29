@@ -70,7 +70,7 @@ Array.from(squares).forEach((square, index) => {
         console.log('clicked');
 
 
-        // functionality for turns, player one will choose a square then hand the turn to player two. if player one = true (its initialized at true) change the background color to pink (using .style) and to declare that first turn as player one we access the squareStuff array & grab the index. and change the value changes to player one.
+        // functionality for turns, player one will choose a square then hand the turn to player two. if player one = true (its initialized at true) change the background color to pink (using .style) and to declare that first turn as player one we access the squareStuff array & grab the index. and the value changes to player one.
 
         if(playerOneTurn == true) {
 
